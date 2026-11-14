@@ -1,0 +1,1 @@
+print("".join(["".join(input().split(" ")) for _ in range(2)]))
